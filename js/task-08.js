@@ -19,7 +19,6 @@ function handleSubmit(event) {
 
     console.log(newArr);
   event.currentTarget.reset();
-  }
-  
+  };
 }
 
